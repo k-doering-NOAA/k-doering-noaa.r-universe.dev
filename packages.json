@@ -1,0 +1,14 @@
+[
+  {
+    "package" : "jsonlite",
+    "url" : "https://github.com/jeroen/jsonlite"
+  },
+  {
+    "package" : "SSMSE",
+    "url" : "https://github.com/nmfs-fish-tools/ssmse"
+  },
+  {
+    "package" : "r4ss", 
+    "url" : "https://github.com/r4ss/r4ss"
+  }
+]
